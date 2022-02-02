@@ -1,7 +1,7 @@
 # python
 
 
-Dans ce reposite je range mes petits programme en python
+Dans ce reposite je range mes petits programmes en python
 
 
 
